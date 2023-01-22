@@ -22,4 +22,4 @@ M2	0.66	0.44	2.89	63.07	0.2255	5
 M3	0.56	0.31	1.57	62.87	0.4388	4
 M4	0.82	0.67	2.68	70.19	0.5238	3
 M5	0.75	0.56	1.3	80.39	0.8113	1
-The output file contains columns of input file along with two additional columns having **Topsis_score** and **Rank**
+The output file contains columns of input file along with two additional columns having **Topsis_score** and **Rank**.
