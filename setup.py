@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="TOPSIS-Sahil-102183056",
+    name="TOPSIS-SahilRohilla-102183056",
     version="1.0.4",
     # package_dir={'':'TOPSIS_Sahil'},
     py_modules=["TOPSIS"],
