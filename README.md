@@ -1,10 +1,10 @@
-Topsis-Sahil-102183056
-USAGE
+**Topsis-Sahil-102183056**
+**USAGE**
 >> topsis data.csv "1,1,1,1" "+,+,-,+" result.csv
-Input file (data.csv)
+**Input file (data.csv)**
 The decision matrix should be constructed with each row representing a Model alternative, and each column representing a criterion like Accuracy, R2, Root Mean Squared Error, Correlation, and many more.
 
-Model	Correlation	R2	RMSE	Accuracy
+**Model	Correlation	R2	RMSE	Accuracy**
 M1	0.79	0.62	1.25	60.89
 M2	0.66	0.44	2.89	63.07
 M3	0.56	0.31	1.57	62.87
@@ -15,8 +15,8 @@ Weights (weights) is not already normalised will be normalised later in the code
 Information of benefit positive(+) or negative(-) impact criteria should be provided in impacts.
 
 
-Output file (result.csv)
-Model	Correlation	R2	RMSE	Accuracy	Topsis_score	Rank
+**Output file (result.csv)
+Model	Correlation	R2	RMSE	Accuracy	Topsis_score	Rank**
 M1	0.79	0.62	1.25	60.89	0.7722	2
 M2	0.66	0.44	2.89	63.07	0.2255	5
 M3	0.56	0.31	1.57	62.87	0.4388	4
